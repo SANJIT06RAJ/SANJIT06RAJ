@@ -2,17 +2,13 @@
 
 <img src="assets/hero.svg" alt="NeoByte, Nexus-9 developer banner" width="100%"/>
 
-<br/>
-
-<a href="https://github.com/SANJIT06RAJ"><img src="https://img.shields.io/badge/GitHub-SANJIT06RAJ-080D1B?style=for-the-badge&logo=github&logoColor=43E8D8" alt="GitHub SANJIT06RAJ"/></a>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-06151B?style=for-the-badge&labelColor=080D1B&color=43E8D8" alt="Focus: software engineering"/>
-<img src="https://img.shields.io/badge/MINDSET-LEARN%20BY%20BUILDING-080D1B?style=for-the-badge&labelColor=080D1B&color=BB72FF" alt="Mindset: learn by building"/>
+<img src="assets/strip.svg" alt="Focus: software engineering. Mindset: learn by building. Now: building DeadlineOS." width="100%"/>
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<br/>
 
-## 01 / ABOUT ME
+<img src="assets/h-about.svg" alt="01 / ABOUT ME" width="100%"/>
 
 ```python
 class Developer:
@@ -29,37 +25,24 @@ class Developer:
 
 I'm an IT student focused on turning what I learn into practical software. I enjoy understanding how applications work behind the scenes, designing reliable APIs, working with databases, and improving code through testing.
 
-- 🔭 Currently building **DeadlineOS**
-- 🌱 Improving my Python, FastAPI, React, and SQL skills
-- 🧪 Practising automated testing, debugging, and Git workflows
-- 🎯 Working towards becoming a capable software engineer
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-## 02 / TECH STACK
-
 | | |
 |:--|:--|
-| **Languages** | `Python` `JavaScript` `HTML5` `CSS3` |
-| **Frameworks & data** | `FastAPI` `React` `Vite` `SQLite` |
-| **Developer tools** | `Git` `GitHub` `Pytest` |
+| 🔭 **Building** | DeadlineOS |
+| 🌱 **Improving** | Python, FastAPI, React, and SQL |
+| 🧪 **Practising** | Automated testing, debugging, and Git workflows |
+| 🎯 **Working towards** | Becoming a capable software engineer |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<br/>
 
-## 03 / FEATURED PROJECT
+<img src="assets/h-stack.svg" alt="02 / TECH STACK" width="100%"/>
 
-### 📚 DeadlineOS
+<img src="assets/stack.svg" alt="Languages: Python, JavaScript, HTML5, CSS3. Frameworks and data: FastAPI, React, Vite, SQLite. Developer tools: Git, GitHub, Pytest." width="100%"/>
 
-**A better way to manage student assignments and deadlines.**
+<br/>
 
-A student-focused application I'm developing to organise assignments, manage subtasks, and keep track of upcoming deadlines.
+<img src="assets/h-project.svg" alt="03 / FEATURED PROJECT" width="100%"/>
 
-| Layer | Technology |
-|:--|:--|
-| Frontend | React + Vite |
-| Backend | Python + FastAPI |
-| Database | SQLite |
-| Testing | Pytest |
+<img src="assets/project.svg" alt="DeadlineOS: a better way to manage student assignments and deadlines. In development. React + Vite, Python + FastAPI, SQLite, Pytest." width="100%"/>
 
 **Current engineering focus**
 
@@ -68,11 +51,9 @@ A student-focused application I'm developing to organise assignments, manage sub
 - Implementing assignment management features
 - Testing application behaviour and database relationships
 
-`STATUS: IN DEVELOPMENT`
+<br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-## 04 / GITHUB ANALYTICS
+<img src="assets/h-stats.svg" alt="04 / GITHUB ANALYTICS" width="100%"/>
 
 <div align="center">
 
@@ -81,16 +62,13 @@ A student-focused application I'm developing to organise assignments, manage sub
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<br/>
 
-## 05 / CURRENT MISSION
+<img src="assets/h-mission.svg" alt="05 / CURRENT MISSION" width="100%"/>
 
-```text
-[+] Strengthen software engineering fundamentals
-[+] Build practical, maintainable applications
-[+] Learn through testing and debugging
-[>] Ship better projects and document the process
-```
+<img src="assets/mission.svg" alt="Strengthen software engineering fundamentals. Build practical, maintainable applications. Learn through testing and debugging. Ship better projects and document the process." width="100%"/>
+
+<br/>
 
 <div align="center">
 
