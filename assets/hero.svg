@@ -1,0 +1,84 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="55%" stop-color="#11142b"/>
+      <stop offset="100%" stop-color="#071d2a"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop offset="0%" stop-color="#43e8d8"/>
+      <stop offset="55%" stop-color="#6d8dff"/>
+      <stop offset="100%" stop-color="#bb72ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8ab4d8" stroke-opacity=".09"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#13d9d1" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#13d9d1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <ellipse cx="930" cy="165" rx="320" ry="230" fill="url(#glow)"/>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".8">
+    <path d="M710 0V52H790V92H860V124H1004V170H1200"/>
+    <path d="M790 340V286H850V248H936V214H1075V180H1200"/>
+    <path d="M900 0V40H952V78H1040V106H1120"/>
+    <path d="M1010 340V296H1080V260H1140V230H1200"/>
+    <path d="M730 188H806V210H858V242H920"/>
+  </g>
+
+  <g fill="#43e8d8">
+    <circle cx="790" cy="52" r="3"/>
+    <circle cx="860" cy="124" r="3"/>
+    <circle cx="1004" cy="170" r="3"/>
+    <circle cx="850" cy="286" r="3"/>
+    <circle cx="936" cy="214" r="3"/>
+  </g>
+
+  <g transform="translate(920 165)" fill="none">
+    <circle r="110" stroke="#7d8bff" stroke-opacity=".3"/>
+    <circle r="82" stroke="#43e8d8" stroke-opacity=".6" stroke-dasharray="4 9"/>
+    <circle r="56" stroke="#bb72ff" stroke-opacity=".8"/>
+    <path d="M-39-22L0-44L39-22V22L0 44L-39 22Z"
+          stroke="#43e8d8" stroke-width="2.5"/>
+    <path d="M-17-10L0-20L17-10V10L0 20L-17 10Z"
+          fill="#43e8d8" fill-opacity=".2" stroke="#43e8d8"/>
+    <circle r="4" fill="#d4fff9" stroke="none"/>
+  </g>
+
+  <path d="M58 54H106" stroke="#43e8d8" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="58" y="100" fill="#91a4c4"
+        font-family="monospace" font-size="15" letter-spacing="4">
+    SOFTWARE / SYSTEMS / CURIOSITY
+  </text>
+
+  <text x="54" y="174" fill="#f3f7ff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-weight="700" font-size="68" letter-spacing="-2">
+    NEOBYTE
+  </text>
+
+  <text x="59" y="214" fill="#b7c6df"
+        font-family="monospace" font-size="19">
+    Building ideas into working software.
+  </text>
+
+  <rect x="58" y="250" width="220" height="34" rx="17"
+        fill="#102b37" stroke="#43e8d8" stroke-opacity=".7"/>
+  <circle cx="77" cy="267" r="4" fill="#67f5bd"/>
+  <text x="91" y="272" fill="#c6fff1"
+        font-family="monospace" font-size="12" letter-spacing="1">
+    IT STUDENT / DEVELOPER
+  </text>
+
+  <text x="1140" y="314" text-anchor="end" fill="#91a4c4"
+        font-family="monospace" font-size="11" letter-spacing="2">
+    N9 // 001
+  </text>
+</svg>
